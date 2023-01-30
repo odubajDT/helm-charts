@@ -3,6 +3,17 @@ entries:
   keptn-lifecycle-toolkit:
   - apiVersion: v2
     appVersion: 0.5.0
+    created: "2023-01-30T19:09:53.682670308Z"
+    description: A Helm chart for Keptn Lifecycle Toolkit, a set of tools to enable
+      cloud-native application lifecycle management
+    digest: f4b53dc504cd475c226d57bce73ccc039b8f6cd65cea4bd54345553e51191f84
+    name: keptn-lifecycle-toolkit
+    type: application
+    urls:
+    - https://github.com/odubajDT/helm-charts/releases/download/keptn-lifecycle-toolkit-0.1.2/keptn-lifecycle-toolkit-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 0.5.0
     created: "2023-01-30T14:18:01.81574393Z"
     description: A Helm chart for Keptn Lifecycle Toolkit, a set of tools to enable
       cloud-native application lifecycle management
@@ -12,4 +23,4 @@ entries:
     urls:
     - https://github.com/odubajDT/helm-charts/releases/download/keptn-lifecycle-toolkit-0.1.1/keptn-lifecycle-toolkit-0.1.1.tgz
     version: 0.1.1
-generated: "2023-01-30T14:18:01.81575173Z"
+generated: "2023-01-30T19:09:53.682688908Z"
